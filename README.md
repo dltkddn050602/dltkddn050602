@@ -2,12 +2,11 @@
 ### About Me
 🎓 Chung-ang university college of Art & Technology
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dltkddn050602&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkddn050602&layout=compact)
 
-### E-mail
-[Email](mailto:sangwoolee.1000@gmail.com)
+### [Email](mailto:sangwoolee.1000@gmail.com)
 
 
 <!--
