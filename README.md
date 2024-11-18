@@ -1,7 +1,15 @@
-## Hi there 👋
+## Welcome😀
+### About Me
+🎓 Chung-ang university college of Art & Technology
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
+
+### E-mail
+[Email](mailto:sangwoolee.1000@gmail.com)
+
+
 <!--
 **dltkddn050602/dltkddn050602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
