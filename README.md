@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkddn050602&layout=compact)
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/view/scaler-create-impact-any-key-programmer-coding-gif-25012205))
 </div>
 
 <!--
