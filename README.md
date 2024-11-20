@@ -12,7 +12,9 @@
 - Object oriented programing
 - python
 - C++
-
+### [Email](mailto:sangwoolee.1000@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
+---
 ## 프로필 - 한국어
 ### 자기소개
 🎓 중앙대학교 예술공학대학 예술공학부
@@ -21,14 +23,14 @@
 - Object oriented programing
 - python
 - C++
-
+### [Email](mailto:sangwoolee.1000@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dltkddn050602&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkddn050602&layout=compact)
 
-### [Email](mailto:sangwoolee.1000@gmail.com)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 <!--
