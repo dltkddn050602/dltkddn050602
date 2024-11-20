@@ -1,4 +1,10 @@
 ## Welcome😀
+# My Profile
+
+[한국어로 보기](#프로필---한국어) | [View in English](#profile---english)
+
+---
+## Profile - English
 ### About Me
 🎓 Chung-ang university college of Art & Technology
 ### What I'm learning
@@ -7,12 +13,22 @@
 - python
 - C++
 
+## 프로필 - 한국어
+### 자기소개
+🎓 중앙대학교 예술공학대학 예술공학부
+### 공부하고 있는 것
+- Open source programing
+- Object oriented programing
+- python
+- C++
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dltkddn050602&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkddn050602&layout=compact)
 
 ### [Email](mailto:sangwoolee.1000@gmail.com)
-  - sangwoolee.1000@gmail.com
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
 
 
 <!--
