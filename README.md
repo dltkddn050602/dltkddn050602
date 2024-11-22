@@ -4,23 +4,23 @@
 ## Profile - English
 ### About Me
 🎓 Chung-ang university college of Art & Technology
-### What I'm learning
+### 📖 What I'm learning
 - Open source programing
 - Object oriented programing
 - python
 - C++
-### [Email](mailto:sangwoolee.1000@gmail.com)
+### 💌 Email
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
 ---
 ## 프로필 - 한국어
 ### 자기소개
 🎓 중앙대학교 예술공학대학 예술공학부
-### 공부하고 있는 것
+### 📖 공부하고 있는 것
 - Open source programing
 - Object oriented programing
 - python
 - C++
-### [Email](mailto:sangwoolee.1000@gmail.com)
+### 💌 Email
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
 ---
 <div align=center>
