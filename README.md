@@ -9,6 +9,8 @@
 - Object oriented programing
 - python
 - C++
+### My project
+-- Emotion detect Ai by koBERT form SKTBrain [Link](https://github.com/dltkddn050602/kobert_emotion)
 ### 💌 Email
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
 ---
@@ -20,6 +22,8 @@
 - Object oriented programing
 - python
 - C++
+### 나의 프로젝트
+- 구글의 BERT의 한국어 성능의 한계를 극복하기위해 나온 오픈소스 koBERT를 사용하여 감정분석하는 AI를 학습기키기 [링크](https://github.com/dltkddn050602/kobert_emotion)
 ### 💌 Email
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangwoolee.1000@gmail.com)](mailto:sangwoolee.1000@gmail.com)
 ---
