@@ -18,7 +18,7 @@
 <div align=center>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dltkddn050602&show_icons=true&theme=radical)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkddn050602&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkddn050602&layout=compact)
 
 ![Coding](https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif)
 </div>
